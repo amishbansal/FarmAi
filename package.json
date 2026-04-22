@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dependencies": "^0.0.1",
+    "dotenv": "^17.2.3",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "eval": "ts-node backend/src/config/evaluation/run-evaluation.ts"
+  }
+}

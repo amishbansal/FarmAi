@@ -1,0 +1,128 @@
+{
+  "chat": {
+    "placeholder": "ਆਪਣਾ ਸਵਾਲ ਪੁੱਛੋ...",
+    "welcome_title": "ਫਾਰਮ AI ਮਦਦਗਾਰ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ",
+    "welcome_subtitle": "ਹੈਲੋ👋, ਮੈਂ ਖੇਤੀਬਾੜੀ ਨਾਲ ਸੰਬੰਧਤ ਤੁਹਾਡੇ ਸਵਾਲਾਂ ਵਿੱਚ ਮਦਦ ਕਰਨ ਲਈ ਇੱਥੇ ਹਾਂ।",
+    "thinking_1": "ਸੋਚ ਰਹੇ ਹਾਂ...",
+    "thinking_2": "ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰ ਰਹੇ ਹਾਂ...",
+    "thinking_3": "ਲਾਗੂ ਜਾਣਕਾਰੀ ਲੱਭ ਰਹੇ ਹਾਂ...",
+    "thinking_4": "ਜਵਾਬ ਲਿਖਿਆ ਜਾ ਰਿਹਾ ਹੈ...",
+    "copy_success": "ਟੈਕਸਟ ਕਲਿੱਪਬੋਰਡ 'ਚ ਕਾਪੀ ਹੋ ਗਿਆ",
+    "error_fetching": "ਜਵਾਬ ਲੈਣ ਵਿੱਚ ਗਲਤੀ ਆਈ",
+    "search_toggle": "ਇੰਟਰਨੈੱਟ ਖੋਜ",
+    "search_tooltip": "ਖੋਜ ਚਾਲੂ/ਬੰਦ ਕਰੋ",
+    "clear_chat": "ਚੈਟ ਸਾਫ਼ ਕਰੋ",
+    "clear_chat_tooltip": "ਸਾਰੀ ਚੈਟ ਹਟਾਓ",
+    "speak_message": "ਸੁਣਾਉਣ ਲਈ ਪੜ੍ਹੋ",
+    "stop_speaking": "ਬੋਲਣਾ ਰੋਕੋ"
+  },
+  "sidebar": {
+    "title": "ਫਾਰਮ ਮਦਦਗਾਰ",
+    "AI Assitant": "AI ਮਦਦਗਾਰ",
+    "Weather Updates": "ਮੌਸਮ ਅਪਡੇਟਸ",
+    "IoT Sensors": "IoT ਸੰਵੇਦਕ",
+    "Datasets": "ਡਾਟਾ ਸੈਟ"
+  },
+  "sensors": {
+    "title": "ਜੁੜੇ ਹੋਏ ਸੰਵੇਦਕ",
+    "Soil Moisture": "ਮਿੱਟੀ ਦੀ ਨਮੀ",
+    "Temperature": "ਤਾਪਮਾਨ",
+    "Humidity": "ਨਮੀ"
+  },
+  "dashSidebar": {
+    "title": "ਡੈਸ਼ਬੋਰਡ",
+    "weatherTitle": "ਮੌਸਮ",
+    "marketTitle": "ਬਾਜ਼ਾਰ"
+  },
+  "iotdata": {
+    "title": "IoT ਡਾਟਾ",
+
+    "sensorFieldsTitle": "ਮਿੱਟੀ ਨਮੀ ਸੰਵੇਦਕ",
+    "sensor1FieldA": "ਸੈਂਸਰ 1 - ਖੇਤ A",
+    "sensor1FieldB": "ਸੈਂਸਰ 1 - ਖੇਤ B",
+    "activeStatus": "ਸਕਰੀਯ",
+
+    "systemStatusTitle": "ਸਿਸਟਮ ਦੀ ਸਥਿਤੀ",
+    "allSystemsOperational": "ਸਾਰੇ ਸਿਸਟਮ ਚਾਲੂ ਹਨ",
+    "lastChecked": "ਆਖਰੀ ਚੈੱਕ: 5 ਮਿੰਟ ਪਹਿਲਾਂ",
+    "batteryLevel": "ਬੈਟਰੀ ਪੱਧਰ",
+    "signalStrength": "ਸਿਗਨਲ ਦੀ ਤਾਕਤ",
+    "strong": "ਮਜ਼ਬੂਤ",
+
+    "sensorDataHistoryTitle": "ਸੈਂਸਰ ਡੇਟਾ ਇਤਿਹਾਸ",
+    "sensorDataHistoryDescription": "ਪਿਛਲੇ 3 ਮਹੀਨਿਆਂ ਲਈ ਤਾਪਮਾਨ ਅਤੇ ਮਿੱਟੀ ਦੀ ਨਮੀ ਦਾ ਡੇਟਾ ਵੇਖਾ ਰਿਹਾ ਹੈ",
+    "last3Months": "ਆਖਰੀ 3 ਮਹੀਨੇ",
+    "last30Days": "ਆਖਰੀ 30 ਦਿਨ",
+    "last7Days": "ਆਖਰੀ 7 ਦਿਨ",
+    "temperatureLabel": "ਤਾਪਮਾਨ (°C)",
+    "soilMoistureLabel": "ਮਿੱਟੀ ਦੀ ਨਮੀ (%)"
+  },
+  "weatherData": {
+    "title": "ਮੌਸਮ ਜਾਣਕਾਰੀ",
+    "Clear": "ਸਾਫ਼",
+    "Clouds": "ਬੱਦਲ",
+    "Rain": "ਮੀਂਹ",
+    "Snow": "ਬਰਫ਼",
+    "weatherForecastTitle": "ਮੌਸਮ ਦੀ ਭਵਿੱਖਬਾਣੀ",
+    "currentWeatherTitle": "ਮੌਜੂਦਾ ਮੌਸਮ",
+    "windConditionsTitle": "ਹਵਾ ਦੇ ਹਾਲਾਤ",
+    "WindSpeed": "ਹਵਾ ਦੀ ਗਤੀ",
+    "Speed": "ਕਿਲੋ: ਮੀ/ਘੰਟਾ",
+    "WindDirection": "ਹਵਾ ਦੀ ਦਿਸ਼ਾ",
+
+    "weatherAlertsTitle": "ਮੌਸਮ ਚੇਤਾਵਨੀ",
+    "highUVIndexAlert": "ਉੱਚ ਯੂਵੀ ਸਤਰ ਦੀ ਚੇਤਾਵਨੀ",
+    "highUVIndexDescription": "ਸਵੇਰੇ 10 ਵਜੇ ਤੋਂ ਸ਼ਾਮ 4 ਵਜੇ ਤੱਕ ਉੱਚ ਯੂਵੀ ਸਤਰ ਦੀ ਉਮੀਦ",
+    "wateringAdvisory": "ਸਿੰਚਾਈ ਸਲਾਹ",
+    "wateringAdvisoryDescription": "ਸ਼ਾਮ ਵੇਲੇ ਫ਼ਸਲ ਦੀ ਸਿੰਚਾਈ ਲਈ ਉਚਿਤ ਹਾਲਾਤ"
+  },
+  "market": {
+    "per_100kg": "ਪ੍ਰਤੀ 100 ਕਿਲੋਗ੍ਰਾਮ",
+    "Onion": "ਪਿਆਜ਼",
+    "Tomato": "ਟਮਾਟਰ",
+    "Banana": "ਕੇਲਾ",
+    "Brinjal": "ਬੈੰਗਣ",
+    "Cabbage": "ਗੋਭੀ",
+    "Potato": "ਆਲੂ",
+    "Amreli": "ਅਮਰੇਲੀ",
+    "Jind": "ਜਿੰਦ",
+    "Kollam": "ਕੋਲਮ",
+    "Gurgaon": "ਗੁੜਗਾਓਂ",
+    "Ferozpur": "ਫਿਰੋਜ਼ਪੁਰ",
+    "marketPrice": "ਮਾਰਕੀਟ ਕੀਮਤ"
+  },
+  "location": {
+    "Chandigarh": "ਚੰਡੀਗੜ੍ਹ",
+    "Delhi": "ਦਿੱਲੀ",
+    "Punjab": "ਪੰਜਾਬ"
+  },
+  "dataset": {
+    "Food Nutrients Database": "ਭੋਜਨ ਪੋਸ਼ਕ ਤੱਤ ਡਾਟਾਬੇਸ",
+    "Spices Database": "ਮਸਾਲੇ ਡਾਟਾਬੇਸ",
+    "India, Australia, UK, US": "ਭਾਰਤ, ਆਸਟ੍ਰੇਲੀਆ, ਯੂਕੇ, ਯੂਐਸ",
+    "India": "ਭਾਰਤ",
+    "Downloads": "ਡਾਊਨਲੋਡ",
+    "Database Size": "ਡਾਟਾਬੇਸ ਅਕਾਰ",
+    "Dataset Countries": "ਡਾਟਾਸੈੱਟ ਦੇਸ਼",
+    "Size": "ਅਕਾਰ",
+    "Download CSV": "CSV ਡਾਊਨਲੋਡ",
+    "API Key": "API ਕੁੰਜੀ",
+    "Food Nutrients Database Description": "ਡਾਟਾਬੇਸ ਵੱਖ-ਵੱਖ ਦੇਸ਼ਾਂ ਤੋਂ ਭੋਜਨ ਦੇ ਪੌਸ਼ਟਿਕ ਪ੍ਰੋਫਾਈਲਾਂ ਦਾ ਇੱਕ ਵਿਸ਼ਤ੍ਰਿਤ ਡਾਟਾਸੈੱਟ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ। ਇਹ ਭੋਜਨ ਨੂੰ ਕਿਸਮ, ਵਿਗਿਆਨਕ ਨਾਮ ਅਤੇ ਪੌਸ਼ਟਿਕ ਸੰਘਟਕ (ਪੋਲੀਫਿਨੋਲ, ਕੈਰੋਟਿਨੋਇਡ, ਵਿਟਾਮਿਨ) ਦੇ ਅਧਾਰ 'ਤੇ ਵੰਡਦਾ ਹੈ। ਖੋਜਕਰਤਿਆਂ, ਪੌਸ਼ਟਿਕ ਵਿਗਿਆਨੀਆਂ ਅਤੇ ਭੋਜਨ ਉਦਯੋਗਾਂ ਲਈ ਲਾਭਕਾਰੀ।",
+    "Spices Database Description": "ਮਸਾਲੇ ਡਾਟਾਬੇਸ",
+    "Database Details": "ਡਾਟਾਬੇਸ ਵੇਰਵੇ",
+    "API link": "API ਲਿੰਕ",
+    "Link": "ਲਿੰਕ",
+    "Copy": "ਕਾਪੀ",
+    "Close": "ਬੰਦ ਕਰੋ"
+  },
+
+  "Subscribe to FarmAI Plus": "FarmAI Plus ਦੀ ਗਾਹਕੀ ਲਓ",
+  "Download the dataset": "ਡਾਟਾਸੈੱਟ ਡਾਊਨਲੋਡ ਕਰੋ",
+  "Access to API": "API ਤੱਕ ਪਹੁੰਚ",
+  "Download in CSV": "CSV ਵਿੱਚ ਡਾਊਨਲੋਡ ਕਰੋ",
+  "Subscribe for ₹10/Month": "₹10/ਮਹੀਨਾ ਦੀ ਗਾਹਕੀ ਲਓ",
+  "Subscribed successfully": "ਗਾਹਕੀ ਸਫਲਤਾਪੂਰਵਕ ਲੈ ਲਈ ਗਈ",
+  "Upload Image": "ਚਿੱਤਰ ਅੱਪਲੋਡ ਕਰੋ",
+  "Picture": "ਤਸਵੀਰ",
+  "Sample Data": "ਨਮੂਨਾ ਡਾਟਾ"
+}

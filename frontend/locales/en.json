@@ -1,0 +1,127 @@
+{
+  "chat": {
+    "placeholder": "Ask your question...",
+    "welcome_title": "Welcome to Farm AI Assistant",
+    "welcome_subtitle": "Hi👋 I'm here to help you in agriculture-related queries and make your life easier.",
+    "thinking_1": "Thinking...",
+    "thinking_2": "Gathering information...",
+    "thinking_3": "Getting relevant information...",
+    "thinking_4": "Writing response...",
+    "copy_success": "Text copied to clipboard",
+    "error_fetching": "Error fetching response",
+    "search_toggle": "Internet Search",
+    "search_tooltip": "Toggle Search ON/OFF",
+    "clear_chat": "Clear Chat",
+    "clear_chat_tooltip": "Clear Chat",
+    "speak_message": "Speak message",
+    "stop_speaking": "Stop speaking"
+  },
+  "sidebar": {
+    "title": "Farm Assistant",
+    "AI Assitant": "AI Assistant",
+    "Weather Updates": "Weather Updates",
+    "IoT Sensors": "IoT Sensors",
+    "Datasets": "Datasets"
+  },
+
+  "sensors": {
+    "title": "Connected Sensors",
+    "Soil Moisture": "Soil Moisture",
+    "Temperature": "Temperature",
+    "Humidity": "Humidity"
+  },
+  "dashSidebar": {
+    "title": "Dashboard",
+    "weatherTitle": "Weather",
+    "marketTitle": "Market"
+  },
+  "iotdata": {
+    "title": "IoT Data",
+    "sensorFieldsTitle": "Soil Moisture Sensors",
+    "sensor1FieldA": "Sensor 1 - Field A",
+    "sensor1FieldB": "Sensor 1 - Field B",
+    "activeStatus": "Active",
+
+    "systemStatusTitle": "System Status",
+    "allSystemsOperational": "All Systems Operational",
+    "lastChecked": "Last checked: 5 minutes ago",
+    "batteryLevel": "Battery Level",
+    "signalStrength": "Signal Strength",
+    "strong": "Strong",
+    "sensorDataHistoryTitle": "Sensor Data History",
+    "sensorDataHistoryDescription": "Showing temperature and soil moisture data for the last 3 months",
+    "last3Months": "Last 3 months",
+    "last30Days": "Last 30 days",
+    "last7Days": "Last 7 days",
+    "temperatureLabel": "Temperature (°C)",
+    "soilMoistureLabel": "Soil Moisture (%)"
+  },
+  "weatherData": {
+    "title": "Weather Data",
+    "Clear": "Clear",
+    "Clouds": "Clouds",
+    "Rain": "Rain",
+    "Snow": "Snow",
+    "weatherForecastTitle": "Weather Forecast",
+    "currentWeatherTitle": "Current Weather",
+    "windConditionsTitle": "Wind Conditions",
+    "WindSpeed": "Wind Speed",
+    "Speed": "KM/H",
+    "WindDirection": "Wind Direction",
+    "weatherAlertsTitle": "Weather Alerts",
+    "highUVIndexAlert": "High UV Index Alert",
+    "highUVIndexDescription": "High UV levels expected between 10 AM and 4 PM",
+    "wateringAdvisory": "Watering Advisory",
+    "wateringAdvisoryDescription": "Optimal conditions for crop watering in the evening"
+  },
+  "market": {
+    "per_100kg": "per 100kg",
+    "Onion": "Onion",
+    "Tomato": "Tomato",
+    "Banana": "Banana",
+
+    "Brinjal": "Brinjal",
+
+    "Cabbage": "Cabbage",
+    "Potato": "Potato",
+    "Amreli": "Amreli",
+    "Jind": "Jind",
+    "Kollam": "Kollam",
+    "Gurgaon": "Gurgaon",
+    "Ferozpur": "Ferozpur",
+    "marketPrice": "Market Price"
+  },
+  "location": {
+    "Chandigarh": "Chandigarh",
+    "Delhi": "Delhi",
+    "Punjab": "Punjab"
+  },
+  "dataset": {
+    "Food Nutrients Database": "Food Nutrients Database",
+    "Spices Database": "Spices Database",
+    "India, Australia, UK, US": "India, Australia, UK, US",
+    "India": "India",
+    "Downloads": "Downloads",
+    "Database Size": "Database Size",
+    "Dataset Countries": "Dataset Countries",
+    "Size": "Size",
+    "Download CSV": "Download CSV",
+    "API Key": "API Key",
+    "Database Details": "Database Details",
+    "Food Nutrients Database Description": "The database provides a comprehensive dataset of food nutritional profiles from various countries. It categorizes foods by type, scientific name, and nutrient composition (polyphenols, carotenoids, vitamins). Useful for researchers, nutritionists, and food industries.",
+    "Spices Database Description": "Spices Database",
+    "API link": "API link",
+    "Link": "Link",
+    "Copy": "Copy",
+    "Close": "Close"
+  },
+  "Subscribe to FarmAI Plus": "Subscribe to FarmAI Plus",
+  "Download the dataset": "Download the dataset",
+  "Access to API": "Access to API",
+  "Download in CSV": "Download in CSV",
+  "Subscribe for ₹10/Month": "Subscribe for ₹10/Month",
+  "Subscribed successfully": "Subscribed successfully",
+  "Upload Image": "Upload Image",
+  "Picture": "Picture",
+  "Sample Data": "Sample Data"
+}

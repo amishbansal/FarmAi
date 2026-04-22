@@ -1,0 +1,80 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - app_network
+
+  mongo-seed:
+    build:
+      context: ./mongo-seed   # <-- Ensure this path is correct
+      dockerfile: Dockerfile
+    volumes:
+      - mongo_data:/data/db
+    depends_on:
+      - mongodb
+    environment:
+      - MONGO_DB_NAME=defaultDb
+      - MONGO_COLLECTION=marketprices
+    networks:
+      - app_network
+
+  redis:
+    image: redis:latest
+    container_name: redis
+    restart: always
+    ports:
+      - "6379:6379"
+    networks:
+      - app_network
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: backend
+    restart: always
+    depends_on:
+      - mongodb
+      - redis
+    environment:
+      - MISTRAL_API_KEY=${MISTRAL_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - REDIS_URL=${REDIS_URL}
+      - TAVILY_API_KEY=${TAVILY_API_KEY}
+      - MANDI_API_KEY=${MANDI_API_KEY}
+      - MONGO_URI=${MONGO_URI}  # Loaded from system
+    ports:
+      - "3000:3000"
+    networks:
+      - app_network
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: frontend
+    restart: always
+    depends_on:
+      - backend
+    environment:
+      - NEXT_PUBLIC_WEATHER_API_KEY=53f03aed53507ad5ff0aa427d6e56852
+      - NEXT_PUBLIC_BACKEND_URL=${NEXT_PUBLIC_BACKEND_URL}  # Loaded from system
+    ports:
+      - "3001:3000"
+    networks:
+      - app_network
+
+volumes:
+  mongo_data:
+
+networks:
+  app_network:
+    driver: bridge

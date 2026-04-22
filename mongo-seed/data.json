@@ -1,0 +1,7127 @@
+[
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4331d"
+    },
+    "State": "Andhra Pradesh",
+    "District": "Guntur",
+    "Market": "Pidugurala(Palnadu)",
+    "Commodity": "Dry Chillies",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 10000,
+    "Max_x0020_Price": 14000,
+    "Modal_x0020_Price": 13700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4331e"
+    },
+    "State": "Gujarat",
+    "District": "Amreli",
+    "Market": "Damnagar",
+    "Commodity": "Brinjal",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1850,
+    "Max_x0020_Price": 2550,
+    "Modal_x0020_Price": 2200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4331f"
+    },
+    "State": "Gujarat",
+    "District": "Amreli",
+    "Market": "Damnagar",
+    "Commodity": "Cabbage",
+    "Variety": "Cabbage",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 250,
+    "Max_x0020_Price": 850,
+    "Modal_x0020_Price": 400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43320"
+    },
+    "State": "Gujarat",
+    "District": "Amreli",
+    "Market": "Damnagar",
+    "Commodity": "Coriander(Leaves)",
+    "Variety": "Coriander",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 350,
+    "Max_x0020_Price": 1050,
+    "Modal_x0020_Price": 800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43321"
+    },
+    "State": "Gujarat",
+    "District": "Bharuch",
+    "Market": "Amod",
+    "Commodity": "Arhar (Tur/Red Gram)(Whole)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 8125,
+    "Modal_x0020_Price": 7575
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43322"
+    },
+    "State": "Gujarat",
+    "District": "Bharuch",
+    "Market": "Valia(Nethrang)",
+    "Commodity": "Arhar (Tur/Red Gram)(Whole)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6975,
+    "Max_x0020_Price": 8125,
+    "Modal_x0020_Price": 7515
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43323"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Farukh Nagar",
+    "Commodity": "Tomato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 900,
+    "Max_x0020_Price": 1400,
+    "Modal_x0020_Price": 900
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43324"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Gurgaon",
+    "Commodity": "Apple",
+    "Variety": "Other",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 9000,
+    "Max_x0020_Price": 11000,
+    "Modal_x0020_Price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43325"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Gurgaon",
+    "Commodity": "Cabbage",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43326"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Gurgaon",
+    "Commodity": "Kinnow",
+    "Variety": "Other",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43327"
+    },
+    "State": "Haryana",
+    "District": "Jind",
+    "Market": "Safidon",
+    "Commodity": "Banana",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43328"
+    },
+    "State": "Haryana",
+    "District": "Jind",
+    "Market": "Safidon",
+    "Commodity": "Mousambi(Sweet Lime)",
+    "Variety": "Mousambi",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43329"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Carrot",
+    "Variety": "Carrot",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1200,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4332a"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Kinnow",
+    "Variety": "Kinnow",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 5500,
+    "Modal_x0020_Price": 5200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4332b"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Papaya",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3500,
+    "Max_x0020_Price": 3600,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4332c"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Pomegranate",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 12000,
+    "Max_x0020_Price": 15000,
+    "Modal_x0020_Price": 14000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4332d"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Pumpkin",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 1600,
+    "Modal_x0020_Price": 1500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4332e"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Spinach",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1400,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4332f"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Bitter gourd",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 5500,
+    "Modal_x0020_Price": 5000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43330"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Colacasia",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 8000,
+    "Max_x0020_Price": 8700,
+    "Modal_x0020_Price": 8000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43331"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Cowpea(Veg)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43332"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Amaranthus",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3200,
+    "Modal_x0020_Price": 3100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43333"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Arecanut(Betelnut/Supari)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 36000,
+    "Max_x0020_Price": 37000,
+    "Modal_x0020_Price": 36500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43334"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Banana",
+    "Variety": "Nendra Bale",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6000,
+    "Max_x0020_Price": 6200,
+    "Modal_x0020_Price": 6100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43335"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Banana",
+    "Variety": "Poovan",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6800,
+    "Max_x0020_Price": 7200,
+    "Modal_x0020_Price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43336"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Bhindi(Ladies Finger)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3800,
+    "Max_x0020_Price": 4200,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43337"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Brinjal",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3800,
+    "Max_x0020_Price": 4200,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43338"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3800,
+    "Max_x0020_Price": 4200,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43339"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Pumpkin",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1800,
+    "Max_x0020_Price": 2200,
+    "Modal_x0020_Price": 2000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4333a"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Ashgourd",
+    "Variety": "Ashgourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2600,
+    "Modal_x0020_Price": 2400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4333b"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Coconut",
+    "Variety": "Medium",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 8000,
+    "Modal_x0020_Price": 7600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4333c"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Cowpea(Veg)",
+    "Variety": "Cowpea (Veg)",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 6000,
+    "Modal_x0020_Price": 5400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4333d"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Tomato",
+    "Variety": "Tomato",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4333e"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Banana",
+    "Variety": "Medium",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6500,
+    "Max_x0020_Price": 7500,
+    "Modal_x0020_Price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4333f"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Tomato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2800,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43340"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Cabbage",
+    "Variety": "Cabbage",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1800,
+    "Max_x0020_Price": 2000,
+    "Modal_x0020_Price": 1800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43341"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Colacasia",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5800,
+    "Max_x0020_Price": 6000,
+    "Modal_x0020_Price": 5800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43342"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Cucumbar(Kheera)",
+    "Variety": "Cucumbar",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4800,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43343"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Drumstick",
+    "Variety": "Drumstick",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 12000,
+    "Max_x0020_Price": 12200,
+    "Modal_x0020_Price": 12000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43344"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Elephant Yam (Suran)",
+    "Variety": "Elephant Yam (Suran)",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3800,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43345"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Lemon",
+    "Variety": "Lemon",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4500,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43346"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Tapioca",
+    "Variety": "Tapioca",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3800,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43347"
+    },
+    "State": "Odisha",
+    "District": "Dhenkanal",
+    "Market": "Hindol",
+    "Commodity": "Beans",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3400,
+    "Max_x0020_Price": 3600,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43348"
+    },
+    "State": "Punjab",
+    "District": "Amritsar",
+    "Market": "Rayya",
+    "Commodity": "Cauliflower",
+    "Variety": "Local",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43349"
+    },
+    "State": "Punjab",
+    "District": "Ferozpur",
+    "Market": "Zira",
+    "Commodity": "Onion",
+    "Variety": "Local",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 2900,
+    "Modal_x0020_Price": 2700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4334a"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Bhindi(Ladies Finger)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6000,
+    "Max_x0020_Price": 6500,
+    "Modal_x0020_Price": 6200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4334b"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Brinjal",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1200,
+    "Max_x0020_Price": 1400,
+    "Modal_x0020_Price": 1300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4334c"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Capsicum",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4334d"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Ginger(Dry)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4334e"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Grapes",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 5500,
+    "Modal_x0020_Price": 5200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4334f"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Mousambi(Sweet Lime)",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3500,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43350"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Tomato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1100,
+    "Max_x0020_Price": 1300,
+    "Modal_x0020_Price": 1200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43351"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Apple",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 8000,
+    "Modal_x0020_Price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43352"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Bhindi(Ladies Finger)",
+    "Variety": "Bhindi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43353"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Tomato",
+    "Variety": "Deshi",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 1800,
+    "Modal_x0020_Price": 1700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43354"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "GarhShankar (Kotfatuhi)",
+    "Commodity": "Apple",
+    "Variety": "American",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 8500,
+    "Modal_x0020_Price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43355"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "GarhShankar (Kotfatuhi)",
+    "Commodity": "Onion",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2200,
+    "Max_x0020_Price": 2700,
+    "Modal_x0020_Price": 2500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43356"
+    },
+    "State": "Rajasthan",
+    "District": "Dungarpur",
+    "Market": "Dungarpur",
+    "Commodity": "Tomato",
+    "Variety": "Tomato",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 973,
+    "Max_x0020_Price": 1025,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43357"
+    },
+    "State": "Tripura",
+    "District": "North Tripura",
+    "Market": "Dasda",
+    "Commodity": "Cauliflower",
+    "Variety": "Cauliflower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1250
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43358"
+    },
+    "State": "Tripura",
+    "District": "North Tripura",
+    "Market": "Dasda",
+    "Commodity": "Potato",
+    "Variety": "Local",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2250
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43359"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Kiratpur",
+    "Commodity": "Banana - Green",
+    "Variety": "Banana - Green",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 1600,
+    "Modal_x0020_Price": 1550
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4335a"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Kiratpur",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1800,
+    "Max_x0020_Price": 1900,
+    "Modal_x0020_Price": 1850
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4335b"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Najibabad",
+    "Commodity": "Potato",
+    "Variety": "Desi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4335c"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bulandshahar",
+    "Market": "Gulavati",
+    "Commodity": "Ginger(Green)",
+    "Variety": "Green Ginger",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7100,
+    "Max_x0020_Price": 7300,
+    "Modal_x0020_Price": 7200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4335d"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Gonda",
+    "Market": "Karnailganj",
+    "Commodity": "Paddy(Dhan)(Common)",
+    "Variety": "Common",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2250,
+    "Max_x0020_Price": 2305,
+    "Modal_x0020_Price": 2300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4335e"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Khiri (Lakhimpur)",
+    "Market": "Maigalganj",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2900,
+    "Max_x0020_Price": 2970,
+    "Modal_x0020_Price": 2940
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4335f"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Khiri (Lakhimpur)",
+    "Market": "Maigalganj",
+    "Commodity": "Tomato",
+    "Variety": "Local",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2300,
+    "Max_x0020_Price": 2350,
+    "Modal_x0020_Price": 2330
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43360"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Maharajganj",
+    "Market": "Anandnagar",
+    "Commodity": "Banana - Green",
+    "Variety": "Banana - Green",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1600,
+    "Max_x0020_Price": 1800,
+    "Modal_x0020_Price": 1700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43361"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Doharighat",
+    "Commodity": "Lemon",
+    "Variety": "Lemon",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1900,
+    "Max_x0020_Price": 2000,
+    "Modal_x0020_Price": 1955
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43362"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Doharighat",
+    "Commodity": "Tomato",
+    "Variety": "Deshi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 900,
+    "Modal_x0020_Price": 865
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43363"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Kopaganj",
+    "Commodity": "Bitter gourd",
+    "Variety": "Bitter Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43364"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Kopaganj",
+    "Commodity": "Cauliflower",
+    "Variety": "Cauliflower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1100,
+    "Modal_x0020_Price": 1050
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43365"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Kopaganj",
+    "Commodity": "Tomato",
+    "Variety": "Hybrid",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 600,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 650
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43366"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Capsicum",
+    "Variety": "Capsicum",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 900,
+    "Modal_x0020_Price": 800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43367"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Tomato",
+    "Variety": "Deshi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 600,
+    "Max_x0020_Price": 800,
+    "Modal_x0020_Price": 700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43368"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Wheat",
+    "Variety": "Dara",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2800,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43369"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Garlic",
+    "Variety": "Garlic",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6500,
+    "Max_x0020_Price": 6600,
+    "Modal_x0020_Price": 6550
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4336a"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Raddish",
+    "Variety": "Raddish",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 600,
+    "Modal_x0020_Price": 550
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4336b"
+    },
+    "State": "Uttarkhand",
+    "District": "Haridwar",
+    "Market": "Roorkee",
+    "Commodity": "Carrot",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 300,
+    "Max_x0020_Price": 500,
+    "Modal_x0020_Price": 400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4336c"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Toofanganj",
+    "Commodity": "Cabbage",
+    "Variety": "Cabbage",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 600,
+    "Max_x0020_Price": 650,
+    "Modal_x0020_Price": 625
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4336d"
+    },
+    "State": "West Bengal",
+    "District": "Cooch Behar",
+    "Market": "Toofanganj",
+    "Commodity": "Tomato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 900,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4336e"
+    },
+    "State": "West Bengal",
+    "District": "Hooghly",
+    "Market": "Sheoraphuly",
+    "Commodity": "Onion",
+    "Variety": "Nasik",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3200,
+    "Max_x0020_Price": 3600,
+    "Modal_x0020_Price": 3400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4336f"
+    },
+    "State": "Andhra Pradesh",
+    "District": "Anantapur",
+    "Market": "Rayadurg",
+    "Commodity": "Tamarind Fruit",
+    "Variety": "Non A/c Flower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5500,
+    "Max_x0020_Price": 9800,
+    "Modal_x0020_Price": 9200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43370"
+    },
+    "State": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Market": "Chintapally",
+    "Commodity": "Paddy(Dhan)(Common)",
+    "Variety": "1001",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2300,
+    "Modal_x0020_Price": 2100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43371"
+    },
+    "State": "Gujarat",
+    "District": "Junagarh",
+    "Market": "Mangrol",
+    "Commodity": "Bengal Gram(Gram)(Whole)",
+    "Variety": "Desi (F.A.Q. Split)",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5500,
+    "Max_x0020_Price": 5625,
+    "Modal_x0020_Price": 5600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43372"
+    },
+    "State": "Gujarat",
+    "District": "Junagarh",
+    "Market": "Mangrol",
+    "Commodity": "Wheat",
+    "Variety": "Lok-1",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2750,
+    "Max_x0020_Price": 2900,
+    "Modal_x0020_Price": 2850
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43373"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Farukh Nagar",
+    "Commodity": "Onion",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3500,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43374"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Gurgaon",
+    "Commodity": "Banana",
+    "Variety": "Other",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43375"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Gurgaon",
+    "Commodity": "Cauliflower",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 600,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 650
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43376"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Gurgaon",
+    "Commodity": "Grapes",
+    "Variety": "Other",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 10000,
+    "Modal_x0020_Price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43377"
+    },
+    "State": "Haryana",
+    "District": "Rewari",
+    "Market": "Kosli",
+    "Commodity": "Carrot",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 800,
+    "Modal_x0020_Price": 800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43378"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Apple",
+    "Variety": "Apple",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 12000,
+    "Max_x0020_Price": 12500,
+    "Modal_x0020_Price": 12500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43379"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Capsicum",
+    "Variety": "Capsicum",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2800,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4337a"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Guava",
+    "Variety": "Guava",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6000,
+    "Max_x0020_Price": 6000,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4337b"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Mousambi(Sweet Lime)",
+    "Variety": "Mousambi",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5500,
+    "Max_x0020_Price": 5500,
+    "Modal_x0020_Price": 5500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4337c"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Cherthala",
+    "Commodity": "Ashgourd",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2200,
+    "Max_x0020_Price": 2400,
+    "Modal_x0020_Price": 2300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4337d"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Cherthala",
+    "Commodity": "Beetroot",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 4200,
+    "Modal_x0020_Price": 4100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4337e"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Banana - Green",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6500,
+    "Max_x0020_Price": 7000,
+    "Modal_x0020_Price": 6500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4337f"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Paddy(Dhan)(Common)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2300,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43380"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Little gourd (Kundru)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4800,
+    "Max_x0020_Price": 5200,
+    "Modal_x0020_Price": 5000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43381"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Carrot",
+    "Variety": "Carrot",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5400,
+    "Max_x0020_Price": 6000,
+    "Modal_x0020_Price": 5800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43382"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Colacasia",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 8400,
+    "Max_x0020_Price": 8800,
+    "Modal_x0020_Price": 8600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43383"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Drumstick",
+    "Variety": "Drumstick",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 9400,
+    "Max_x0020_Price": 10000,
+    "Modal_x0020_Price": 9800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43384"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6000,
+    "Max_x0020_Price": 7600,
+    "Modal_x0020_Price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43385"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Long Melon(Kakri)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43386"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Onion",
+    "Variety": "Big",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4600,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43387"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Bhindi(Ladies Finger)",
+    "Variety": "Bhindi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3900,
+    "Max_x0020_Price": 5500,
+    "Modal_x0020_Price": 4500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43388"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Coconut",
+    "Variety": "Coconut",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 8000,
+    "Modal_x0020_Price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43389"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Cucumbar(Kheera)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4338a"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Elephant Yam (Suran)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 6000,
+    "Modal_x0020_Price": 5500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4338b"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2800,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4338c"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Pumpkin",
+    "Variety": "Pumpkin",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4338d"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Vempally  VFPCK",
+    "Commodity": "Snakeguard",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2600,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4338e"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Banana",
+    "Variety": "Palayamthodan",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1800,
+    "Max_x0020_Price": 2000,
+    "Modal_x0020_Price": 1800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4338f"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Brinjal",
+    "Variety": "Round",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3800,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43390"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Carrot",
+    "Variety": "Carrot",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2800,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43391"
+    },
+    "State": "Odisha",
+    "District": "Dhenkanal",
+    "Market": "Hindol",
+    "Commodity": "Bitter gourd",
+    "Variety": "Bitter Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4800,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4900
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43392"
+    },
+    "State": "Odisha",
+    "District": "Dhenkanal",
+    "Market": "Hindol",
+    "Commodity": "Cucumbar(Kheera)",
+    "Variety": "Cucumbar",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3800,
+    "Max_x0020_Price": 4200,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43393"
+    },
+    "State": "Odisha",
+    "District": "Dhenkanal",
+    "Market": "Hindol",
+    "Commodity": "Onion",
+    "Variety": "Other",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3500,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43394"
+    },
+    "State": "Punjab",
+    "District": "Bhatinda",
+    "Market": "Bhucho",
+    "Commodity": "Onion",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1600,
+    "Max_x0020_Price": 1800,
+    "Modal_x0020_Price": 1700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43395"
+    },
+    "State": "Punjab",
+    "District": "Ferozpur",
+    "Market": "Zira",
+    "Commodity": "Carrot",
+    "Variety": "Carrot",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 400,
+    "Max_x0020_Price": 600,
+    "Modal_x0020_Price": 500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43396"
+    },
+    "State": "Punjab",
+    "District": "Ferozpur",
+    "Market": "Zira",
+    "Commodity": "Garlic",
+    "Variety": "Garlic",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 10000,
+    "Max_x0020_Price": 14800,
+    "Modal_x0020_Price": 12000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43397"
+    },
+    "State": "Punjab",
+    "District": "Ferozpur",
+    "Market": "Zira",
+    "Commodity": "Papaya",
+    "Variety": "Other",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 2700,
+    "Modal_x0020_Price": 2600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43398"
+    },
+    "State": "Punjab",
+    "District": "Ferozpur",
+    "Market": "Zira",
+    "Commodity": "Potato",
+    "Variety": "(Red Nanital)",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 600,
+    "Max_x0020_Price": 800,
+    "Modal_x0020_Price": 700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43399"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "French Beans (Frasbean)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1800,
+    "Max_x0020_Price": 2200,
+    "Modal_x0020_Price": 2000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4339a"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Garlic",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 9000,
+    "Modal_x0020_Price": 8000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4339b"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Green Chilli",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 2000,
+    "Modal_x0020_Price": 1800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4339c"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Capsicum",
+    "Variety": "Capsicum",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1800,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4339d"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Pomegranate",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6500,
+    "Max_x0020_Price": 7000,
+    "Modal_x0020_Price": 6800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4339e"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 900,
+    "Modal_x0020_Price": 800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4339f"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Spinach",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 800,
+    "Modal_x0020_Price": 700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433a0"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "GarhShankar (Kotfatuhi)",
+    "Commodity": "Banana",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433a1"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "GarhShankar (Kotfatuhi)",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 800,
+    "Modal_x0020_Price": 750
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433a2"
+    },
+    "State": "Punjab",
+    "District": "kapurthala",
+    "Market": "Sultanpur",
+    "Commodity": "Cauliflower",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 150,
+    "Max_x0020_Price": 200,
+    "Modal_x0020_Price": 200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433a3"
+    },
+    "State": "Punjab",
+    "District": "kapurthala",
+    "Market": "Sultanpur",
+    "Commodity": "Cucumbar(Kheera)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433a4"
+    },
+    "State": "Punjab",
+    "District": "kapurthala",
+    "Market": "Sultanpur",
+    "Commodity": "Peas Wet",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433a5"
+    },
+    "State": "Telangana",
+    "District": "Karimnagar",
+    "Market": "Vemulawada",
+    "Commodity": "Cotton",
+    "Variety": "Cotton (Unginned)",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7200,
+    "Max_x0020_Price": 7500,
+    "Modal_x0020_Price": 7350
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433a6"
+    },
+    "State": "Tripura",
+    "District": "North Tripura",
+    "Market": "Dasda",
+    "Commodity": "Cabbage",
+    "Variety": "Cabbage",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 759
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433a7"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Kiratpur",
+    "Commodity": "Apple",
+    "Variety": "Apple",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 8000,
+    "Modal_x0020_Price": 7050
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433a8"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Kiratpur",
+    "Commodity": "Potato",
+    "Variety": "Potato",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 900,
+    "Modal_x0020_Price": 850
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433a9"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Kiratpur",
+    "Commodity": "Tomato",
+    "Variety": "Tomato",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 1600,
+    "Modal_x0020_Price": 1550
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433aa"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Najibabad",
+    "Commodity": "Bottle gourd",
+    "Variety": "Bottle Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 1400,
+    "Modal_x0020_Price": 1200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ab"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Najibabad",
+    "Commodity": "Cauliflower",
+    "Variety": "Cauliflower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 200,
+    "Max_x0020_Price": 400,
+    "Modal_x0020_Price": 300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ac"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Najibabad",
+    "Commodity": "Pumpkin",
+    "Variety": "Pumpkin",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 900
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ad"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bulandshahar",
+    "Market": "Gulavati",
+    "Commodity": "Cauliflower",
+    "Variety": "Cauliflower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1100,
+    "Max_x0020_Price": 1300,
+    "Modal_x0020_Price": 1200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ae"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bulandshahar",
+    "Market": "Gulavati",
+    "Commodity": "Raddish",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433af"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Khiri (Lakhimpur)",
+    "Market": "Maigalganj",
+    "Commodity": "Onion",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2800,
+    "Max_x0020_Price": 2850,
+    "Modal_x0020_Price": 2830
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433b0"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Khiri (Lakhimpur)",
+    "Market": "Maigalganj",
+    "Commodity": "Potato",
+    "Variety": "Desi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2300,
+    "Max_x0020_Price": 2345,
+    "Modal_x0020_Price": 2330
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433b1"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Maharajganj",
+    "Market": "Anandnagar",
+    "Commodity": "Gur(Jaggery)",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 4400,
+    "Modal_x0020_Price": 4200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433b2"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Maharajganj",
+    "Market": "Anandnagar",
+    "Commodity": "Orange",
+    "Variety": "Orange",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 6000,
+    "Modal_x0020_Price": 5500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433b3"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Maharajganj",
+    "Market": "Anandnagar",
+    "Commodity": "Potato",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 2000,
+    "Modal_x0020_Price": 1800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433b4"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Maharajganj",
+    "Market": "Anandnagar",
+    "Commodity": "Rice",
+    "Variety": "III",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2650,
+    "Max_x0020_Price": 3050,
+    "Modal_x0020_Price": 2850
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433b5"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Doharighat",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5900,
+    "Max_x0020_Price": 6000,
+    "Modal_x0020_Price": 5955
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433b6"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Doharighat",
+    "Commodity": "Paddy(Dhan)(Common)",
+    "Variety": "1001",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2300,
+    "Max_x0020_Price": 2350,
+    "Modal_x0020_Price": 2325
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433b7"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Kopaganj",
+    "Commodity": "Bhindi(Ladies Finger)",
+    "Variety": "Bhindi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 900,
+    "Max_x0020_Price": 1100,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433b8"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Kopaganj",
+    "Commodity": "Onion",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2100,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433b9"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Banana",
+    "Variety": "Banana - Ripe",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1400,
+    "Modal_x0020_Price": 1200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ba"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Brinjal",
+    "Variety": "Round/Long",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 600,
+    "Max_x0020_Price": 800,
+    "Modal_x0020_Price": 700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433bb"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Cauliflower",
+    "Variety": "Cauliflower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433bc"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Raddish",
+    "Variety": "Raddish",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433bd"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Brinjal",
+    "Variety": "Round/Long",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 900,
+    "Modal_x0020_Price": 850
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433be"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Carrot",
+    "Variety": "Carrot",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 900,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 950
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433bf"
+    },
+    "State": "Uttrakhand",
+    "District": "Haridwar",
+    "Market": "Roorkee",
+    "Commodity": "Beans",
+    "Variety": "Beans (Whole)",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 400,
+    "Max_x0020_Price": 600,
+    "Modal_x0020_Price": 500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433c0"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Mekhliganj",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433c1"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Toofanganj",
+    "Commodity": "Brinjal",
+    "Variety": "Brinjal",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 900,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 950
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433c2"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Toofanganj",
+    "Commodity": "Cauliflower",
+    "Variety": "Cauliflower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 750,
+    "Modal_x0020_Price": 725
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433c3"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Toofanganj",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3200,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433c4"
+    },
+    "State": "West Bengal",
+    "District": "Hooghly",
+    "Market": "Sheoraphuly",
+    "Commodity": "Tomato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 600,
+    "Modal_x0020_Price": 550
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433c5"
+    },
+    "State": "Gujarat",
+    "District": "Amreli",
+    "Market": "Damnagar",
+    "Commodity": "Cauliflower",
+    "Variety": "Cauliflower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 350,
+    "Max_x0020_Price": 1050,
+    "Modal_x0020_Price": 700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433c6"
+    },
+    "State": "Gujarat",
+    "District": "Bharuch",
+    "Market": "Valia",
+    "Commodity": "Arhar (Tur/Red Gram)(Whole)",
+    "Variety": "777 New Ind",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7025,
+    "Max_x0020_Price": 8100,
+    "Modal_x0020_Price": 7525
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433c7"
+    },
+    "State": "Gujarat",
+    "District": "Narmada",
+    "Market": "Rajpipla",
+    "Commodity": "Banana",
+    "Variety": "Other",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2025,
+    "Max_x0020_Price": 3025,
+    "Modal_x0020_Price": 2485
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433c8"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Gurgaon",
+    "Commodity": "Onion",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433c9"
+    },
+    "State": "Haryana",
+    "District": "Jind",
+    "Market": "Safidon",
+    "Commodity": "Cabbage",
+    "Variety": "Cabbage",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 300,
+    "Max_x0020_Price": 300,
+    "Modal_x0020_Price": 300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ca"
+    },
+    "State": "Haryana",
+    "District": "Jind",
+    "Market": "Safidon",
+    "Commodity": "Onion",
+    "Variety": "Other",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2000,
+    "Modal_x0020_Price": 2000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433cb"
+    },
+    "State": "Haryana",
+    "District": "Jind",
+    "Market": "Safidon",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433cc"
+    },
+    "State": "Haryana",
+    "District": "Rewari",
+    "Market": "Kosli",
+    "Commodity": "Brinjal",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433cd"
+    },
+    "State": "Haryana",
+    "District": "Rewari",
+    "Market": "Kosli",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ce"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Banana",
+    "Variety": "Banana - Ripe",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3200,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433cf"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Bottle gourd",
+    "Variety": "Bottle Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2200,
+    "Modal_x0020_Price": 2200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433d0"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Cabbage",
+    "Variety": "Cabbage",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433d1"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Cauliflower",
+    "Variety": "Cauliflower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433d2"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "French Beans (Frasbean)",
+    "Variety": "French Beans (Frasbean)",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 2600,
+    "Modal_x0020_Price": 2500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433d3"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Ginger(Green)",
+    "Variety": "Green Ginger",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433d4"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Raddish",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1200,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433d5"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Tomato",
+    "Variety": "Tomato",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1700,
+    "Max_x0020_Price": 1800,
+    "Modal_x0020_Price": 1700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433d6"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Cherthala",
+    "Commodity": "Bhindi(Ladies Finger)",
+    "Variety": "Bhindi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 4200,
+    "Modal_x0020_Price": 4100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433d7"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Cherthala",
+    "Commodity": "Brinjal",
+    "Variety": "Brinjal",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3200,
+    "Modal_x0020_Price": 3100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433d8"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Cherthala",
+    "Commodity": "Cabbage",
+    "Variety": "Cabbage",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 4200,
+    "Modal_x0020_Price": 4100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433d9"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Ashgourd",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433da"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Beetroot",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 5500,
+    "Modal_x0020_Price": 5000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433db"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Bottle gourd",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2400,
+    "Modal_x0020_Price": 2000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433dc"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Capsicum",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 8000,
+    "Max_x0020_Price": 8700,
+    "Modal_x0020_Price": 8000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433dd"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Madhavapuram",
+    "Commodity": "Amaranthus",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 2800,
+    "Modal_x0020_Price": 2700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433de"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Banana",
+    "Variety": "Medium",
+    "Grade": "Small",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 5200,
+    "Modal_x0020_Price": 5100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433df"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Bhindi(Ladies Finger)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 7200,
+    "Modal_x0020_Price": 7100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433e0"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Copra",
+    "Variety": "other",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 12000,
+    "Max_x0020_Price": 13000,
+    "Modal_x0020_Price": 12500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433e1"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Pepper garbled",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 60000,
+    "Max_x0020_Price": 60200,
+    "Modal_x0020_Price": 60100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433e2"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Pumpkin",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1600,
+    "Max_x0020_Price": 1800,
+    "Modal_x0020_Price": 1700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433e3"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Banana",
+    "Variety": "Robusta",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4300,
+    "Max_x0020_Price": 4700,
+    "Modal_x0020_Price": 4500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433e4"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Beetroot",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2800,
+    "Max_x0020_Price": 3200,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433e5"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Bitter gourd",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5800,
+    "Max_x0020_Price": 6200,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433e6"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Ginger(Green)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7800,
+    "Max_x0020_Price": 8200,
+    "Modal_x0020_Price": 8000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433e7"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Indian Beans (Seam)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5800,
+    "Max_x0020_Price": 6200,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433e8"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Banana - Green",
+    "Variety": "Banana - Green",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 8000,
+    "Modal_x0020_Price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433e9"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Bhindi(Ladies Finger)",
+    "Variety": "Bhindi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 5600,
+    "Modal_x0020_Price": 5300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ea"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Lemon",
+    "Variety": "Lemon",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 8400,
+    "Max_x0020_Price": 9000,
+    "Modal_x0020_Price": 8600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433eb"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Mint(Pudina)",
+    "Variety": "Mint(Pudina)",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6500,
+    "Max_x0020_Price": 7600,
+    "Modal_x0020_Price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ec"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Tapioca",
+    "Variety": "Tapioca",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ed"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Banana",
+    "Variety": "Palayamthodan",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1800,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 2500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ee"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Banana",
+    "Variety": "Robusta",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3500,
+    "Max_x0020_Price": 4600,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ef"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Little gourd (Kundru)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433f0"
+    },
+    "State": "Kerala",
+    "District": "Pathanamthitta",
+    "Market": "Kalanjoor  VFPCK",
+    "Commodity": "Elephant Yam (Suran)",
+    "Variety": "Elephant Yam (Suran)",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6500,
+    "Max_x0020_Price": 6900,
+    "Modal_x0020_Price": 6700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433f1"
+    },
+    "State": "Kerala",
+    "District": "Pathanamthitta",
+    "Market": "Mezhuveli  VFPCK",
+    "Commodity": "Snakeguard",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433f2"
+    },
+    "State": "Kerala",
+    "District": "Pathanamthitta",
+    "Market": "Mezhuveli  VFPCK",
+    "Commodity": "Turmeric",
+    "Variety": "Local",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2800,
+    "Max_x0020_Price": 6300,
+    "Modal_x0020_Price": 5500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433f3"
+    },
+    "State": "Kerala",
+    "District": "Pathanamthitta",
+    "Market": "Pramadom VFPCK",
+    "Commodity": "Banana",
+    "Variety": "Red Banana",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 7200,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433f4"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Banana",
+    "Variety": "Nendra Bale",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6000,
+    "Max_x0020_Price": 6500,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433f5"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Banana",
+    "Variety": "Red Banana",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6000,
+    "Max_x0020_Price": 6500,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433f6"
+    },
+    "State": "Odisha",
+    "District": "Dhenkanal",
+    "Market": "Hindol",
+    "Commodity": "Brinjal",
+    "Variety": "Brinjal",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433f7"
+    },
+    "State": "Odisha",
+    "District": "Dhenkanal",
+    "Market": "Hindol",
+    "Commodity": "Tomato",
+    "Variety": "Tomato",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433f8"
+    },
+    "State": "Punjab",
+    "District": "Amritsar",
+    "Market": "Rayya",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 800,
+    "Modal_x0020_Price": 800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433f9"
+    },
+    "State": "Punjab",
+    "District": "Ferozpur",
+    "Market": "Zira",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2800,
+    "Max_x0020_Price": 3200,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433fa"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Apple",
+    "Variety": "Apple",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 7000,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433fb"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Carrot",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433fc"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Cauliflower",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 400,
+    "Max_x0020_Price": 500,
+    "Modal_x0020_Price": 450
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433fd"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Onion",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433fe"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a433ff"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Banana",
+    "Variety": "Medium",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43400"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Cauliflower",
+    "Variety": "Cauliflower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 400,
+    "Max_x0020_Price": 550,
+    "Modal_x0020_Price": 500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43401"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Field Pea",
+    "Variety": "Field Pea",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1700,
+    "Max_x0020_Price": 2000,
+    "Modal_x0020_Price": 1800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43402"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Ginger(Green)",
+    "Variety": "Green Ginger",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3500,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43403"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43404"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Onion",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43405"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Papaya",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 2800,
+    "Modal_x0020_Price": 2700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43406"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "GarhShankar (Kotfatuhi)",
+    "Commodity": "Green Chilli",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43407"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "GarhShankar (Kotfatuhi)",
+    "Commodity": "Tomato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 2000,
+    "Modal_x0020_Price": 1800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43408"
+    },
+    "State": "Punjab",
+    "District": "kapurthala",
+    "Market": "Sultanpur",
+    "Commodity": "Carrot",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 450,
+    "Max_x0020_Price": 500,
+    "Modal_x0020_Price": 500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43409"
+    },
+    "State": "Tripura",
+    "District": "North Tripura",
+    "Market": "Dasda",
+    "Commodity": "Brinjal",
+    "Variety": "Round/Long",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2250
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4340a"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Kiratpur",
+    "Commodity": "Brinjal",
+    "Variety": "Brinjal",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1300,
+    "Max_x0020_Price": 1400,
+    "Modal_x0020_Price": 1350
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4340b"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Kiratpur",
+    "Commodity": "Papaya",
+    "Variety": "Papaya",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1800,
+    "Max_x0020_Price": 1900,
+    "Modal_x0020_Price": 1850
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4340c"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bulandshahar",
+    "Market": "Gulavati",
+    "Commodity": "Brinjal",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 900,
+    "Modal_x0020_Price": 800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4340d"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bulandshahar",
+    "Market": "Gulavati",
+    "Commodity": "Carrot",
+    "Variety": "Carrot",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1200,
+    "Max_x0020_Price": 1400,
+    "Modal_x0020_Price": 1300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4340e"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Hathras",
+    "Market": "Shadabad",
+    "Commodity": "Tomato",
+    "Variety": "Deshi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 600,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 650
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4340f"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Khiri (Lakhimpur)",
+    "Market": "Maigalganj",
+    "Commodity": "Gur(Jaggery)",
+    "Variety": "Khandsari",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3230,
+    "Max_x0020_Price": 3300,
+    "Modal_x0020_Price": 3259
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43410"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Maharajganj",
+    "Market": "Anandnagar",
+    "Commodity": "Tomato",
+    "Variety": "Deshi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 900
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43411"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Doharighat",
+    "Commodity": "Gur(Jaggery)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5400,
+    "Max_x0020_Price": 5500,
+    "Modal_x0020_Price": 5465
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43412"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Doharighat",
+    "Commodity": "Masur Dal",
+    "Variety": "Kala Masoor New",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 9000,
+    "Max_x0020_Price": 9100,
+    "Modal_x0020_Price": 9055
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43413"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Doharighat",
+    "Commodity": "Potato",
+    "Variety": "Potato",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1400,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1465
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43414"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Kopaganj",
+    "Commodity": "Apple",
+    "Variety": "Delicious",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7200,
+    "Max_x0020_Price": 7400,
+    "Modal_x0020_Price": 7300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43415"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Kopaganj",
+    "Commodity": "Banana",
+    "Variety": "Medium",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43416"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Kopaganj",
+    "Commodity": "Bottle gourd",
+    "Variety": "Bottle Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 900,
+    "Max_x0020_Price": 1100,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43417"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Kopaganj",
+    "Commodity": "Brinjal",
+    "Variety": "Brinjal",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1100,
+    "Modal_x0020_Price": 1050
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43418"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Bottle gourd",
+    "Variety": "Bottle Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43419"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Leafy Vegetable",
+    "Variety": "Leafy Vegetables",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4341a"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Prayagraj",
+    "Market": "Lediyari",
+    "Commodity": "Rice",
+    "Variety": "Common",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2700,
+    "Max_x0020_Price": 2850,
+    "Modal_x0020_Price": 2800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4341b"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Cabbage",
+    "Variety": "Cabbage",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 600,
+    "Modal_x0020_Price": 550
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4341c"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Ginger(Green)",
+    "Variety": "Green Ginger",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3300,
+    "Max_x0020_Price": 3400,
+    "Modal_x0020_Price": 3350
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4341d"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Tomato",
+    "Variety": "Hybrid",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 900,
+    "Modal_x0020_Price": 850
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4341e"
+    },
+    "State": "Uttrakhand",
+    "District": "Haridwar",
+    "Market": "Roorkee",
+    "Commodity": "Onion",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4341f"
+    },
+    "State": "Uttrakhand",
+    "District": "Haridwar",
+    "Market": "Roorkee",
+    "Commodity": "Tomato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 1100,
+    "Modal_x0020_Price": 900
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43420"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Dinhata",
+    "Commodity": "Bitter gourd",
+    "Variety": "Bitter Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3400,
+    "Max_x0020_Price": 3600,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43421"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Dinhata",
+    "Commodity": "Cauliflower",
+    "Variety": "Cauliflower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 750,
+    "Modal_x0020_Price": 725
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43422"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Dinhata",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 900,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 950
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43423"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Mekhliganj",
+    "Commodity": "Brinjal",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 900,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43424"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Mekhliganj",
+    "Commodity": "Cauliflower",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 750,
+    "Modal_x0020_Price": 725
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43425"
+    },
+    "State": "West Bengal",
+    "District": "Hooghly",
+    "Market": "Sheoraphuly",
+    "Commodity": "Brinjal",
+    "Variety": "Round/Long",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1600,
+    "Max_x0020_Price": 2000,
+    "Modal_x0020_Price": 1800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43426"
+    },
+    "State": "West Bengal",
+    "District": "Hooghly",
+    "Market": "Sheoraphuly",
+    "Commodity": "Cabbage",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 600,
+    "Modal_x0020_Price": 550
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43427"
+    },
+    "State": "West Bengal",
+    "District": "Hooghly",
+    "Market": "Sheoraphuly",
+    "Commodity": "Garlic",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 10000,
+    "Max_x0020_Price": 11000,
+    "Modal_x0020_Price": 10500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43428"
+    },
+    "State": "West Bengal",
+    "District": "Hooghly",
+    "Market": "Sheoraphuly",
+    "Commodity": "Green Chilli",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3600,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43429"
+    },
+    "State": "Andhra Pradesh",
+    "District": "Guntur",
+    "Market": "Pidugurala(Palnadu)",
+    "Commodity": "Dry Chillies",
+    "Variety": "1st Sort",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 9000,
+    "Max_x0020_Price": 12800,
+    "Modal_x0020_Price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4342a"
+    },
+    "State": "Gujarat",
+    "District": "Amreli",
+    "Market": "Damnagar",
+    "Commodity": "Guar",
+    "Variety": "Gwar",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4250,
+    "Max_x0020_Price": 5050,
+    "Modal_x0020_Price": 4800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4342b"
+    },
+    "State": "Gujarat",
+    "District": "Narmada",
+    "Market": "Rajpipla",
+    "Commodity": "Arhar (Tur/Red Gram)(Whole)",
+    "Variety": "777 New Ind",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7310,
+    "Max_x0020_Price": 7850,
+    "Modal_x0020_Price": 7625
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4342c"
+    },
+    "State": "Gujarat",
+    "District": "Narmada",
+    "Market": "Rajpipla",
+    "Commodity": "Cotton",
+    "Variety": "Cotton (Unginned)",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6875,
+    "Max_x0020_Price": 7650,
+    "Modal_x0020_Price": 7225
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4342d"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Gurgaon",
+    "Commodity": "Pomegranate",
+    "Variety": "Other",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 10000,
+    "Modal_x0020_Price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4342e"
+    },
+    "State": "Haryana",
+    "District": "Jind",
+    "Market": "Safidon",
+    "Commodity": "Grapes",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4500,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4342f"
+    },
+    "State": "Haryana",
+    "District": "Rewari",
+    "Market": "Kosli",
+    "Commodity": "Banana",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2000,
+    "Modal_x0020_Price": 2000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43430"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Grapes",
+    "Variety": "Green",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 8500,
+    "Max_x0020_Price": 8500,
+    "Modal_x0020_Price": 8500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43431"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Onion",
+    "Variety": "Onion",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3400,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43432"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Orange",
+    "Variety": "Medium",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 8000,
+    "Max_x0020_Price": 8000,
+    "Modal_x0020_Price": 8000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43433"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Potato",
+    "Variety": "Potato",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1200,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43434"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Cherthala",
+    "Commodity": "Amaranthus",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6500,
+    "Max_x0020_Price": 6700,
+    "Modal_x0020_Price": 6600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43435"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Amaranthus",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 5500,
+    "Modal_x0020_Price": 5000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43436"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Carrot",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6000,
+    "Max_x0020_Price": 6500,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43437"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Cauliflower",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43438"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Cucumbar(Kheera)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43439"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Cashewnuts",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 9000,
+    "Max_x0020_Price": 9200,
+    "Modal_x0020_Price": 9100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4343a"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Cowpea(Veg)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3200,
+    "Modal_x0020_Price": 3100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4343b"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Cucumbar(Kheera)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1400,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1450
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4343c"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Paddy(Dhan)(Common)",
+    "Variety": "Other",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2200,
+    "Max_x0020_Price": 2400,
+    "Modal_x0020_Price": 2300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4343d"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Banana",
+    "Variety": "Banana - Ripe",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7800,
+    "Max_x0020_Price": 8200,
+    "Modal_x0020_Price": 8000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4343e"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Cowpea(Veg)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3800,
+    "Max_x0020_Price": 4200,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4343f"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Tomato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2800,
+    "Max_x0020_Price": 3200,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43440"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Amphophalus",
+    "Variety": "Amphophalus",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 5600,
+    "Modal_x0020_Price": 5400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43441"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Banana",
+    "Variety": "Palayamthodan",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3500,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43442"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Banana",
+    "Variety": "Robusta",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43443"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Beetroot",
+    "Variety": "Beetroot",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 6000,
+    "Modal_x0020_Price": 5400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43444"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Bitter gourd",
+    "Variety": "Bitter Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6000,
+    "Max_x0020_Price": 7000,
+    "Modal_x0020_Price": 6500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43445"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Brinjal",
+    "Variety": "Brinjal",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3600,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43446"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Cowpea(Veg)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4600,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43447"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Mango (Raw-Ripe)",
+    "Variety": "Mango - Raw-Ripe",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5800,
+    "Max_x0020_Price": 6500,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43448"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Potato",
+    "Variety": "Potato",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43449"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Pumpkin",
+    "Variety": "Pumpkin",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4344a"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Snakeguard",
+    "Variety": "Snakeguard",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4344b"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Colacasia",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4500,
+    "Max_x0020_Price": 6000,
+    "Modal_x0020_Price": 5500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4344c"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Drumstick",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 10000,
+    "Max_x0020_Price": 12000,
+    "Modal_x0020_Price": 11500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4344d"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3400,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4344e"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Mango (Raw-Ripe)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5500,
+    "Max_x0020_Price": 7000,
+    "Modal_x0020_Price": 6500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4344f"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Onion",
+    "Variety": "Big",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3900,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43450"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Snakeguard",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43451"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Tapioca",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43452"
+    },
+    "State": "Kerala",
+    "District": "Pathanamthitta",
+    "Market": "Mezhuveli  VFPCK",
+    "Commodity": "Pumpkin",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43453"
+    },
+    "State": "Kerala",
+    "District": "Pathanamthitta",
+    "Market": "Pramadom VFPCK",
+    "Commodity": "Brinjal",
+    "Variety": "Brinjal",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3200,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43454"
+    },
+    "State": "Kerala",
+    "District": "Pathanamthitta",
+    "Market": "Pramadom VFPCK",
+    "Commodity": "Colacasia",
+    "Variety": "Colacasia",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4500,
+    "Max_x0020_Price": 6400,
+    "Modal_x0020_Price": 5500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43455"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Amaranthus",
+    "Variety": "Amaranthus",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6500,
+    "Max_x0020_Price": 7000,
+    "Modal_x0020_Price": 6500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43456"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Banana",
+    "Variety": "Rasakathai",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5800,
+    "Max_x0020_Price": 6000,
+    "Modal_x0020_Price": 5800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43457"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Cluster beans",
+    "Variety": "Cluster Beans",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3200,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43458"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Pineapple",
+    "Variety": "Pine Apple",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6800,
+    "Max_x0020_Price": 7000,
+    "Modal_x0020_Price": 6800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43459"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Pumpkin",
+    "Variety": "Pumpkin",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 2000,
+    "Modal_x0020_Price": 1500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4345a"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Tomato",
+    "Variety": "Tomato",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4345b"
+    },
+    "State": "Odisha",
+    "District": "Dhenkanal",
+    "Market": "Hindol",
+    "Commodity": "Banana - Green",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2600,
+    "Max_x0020_Price": 2800,
+    "Modal_x0020_Price": 2700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4345c"
+    },
+    "State": "Odisha",
+    "District": "Dhenkanal",
+    "Market": "Hindol",
+    "Commodity": "Bhindi(Ladies Finger)",
+    "Variety": "Bhindi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6000,
+    "Max_x0020_Price": 6500,
+    "Modal_x0020_Price": 6200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4345d"
+    },
+    "State": "Odisha",
+    "District": "Dhenkanal",
+    "Market": "Hindol",
+    "Commodity": "Potato",
+    "Variety": "Potato",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1400,
+    "Max_x0020_Price": 1600,
+    "Modal_x0020_Price": 1500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4345e"
+    },
+    "State": "Odisha",
+    "District": "Dhenkanal",
+    "Market": "Hindol",
+    "Commodity": "Pumpkin",
+    "Variety": "Pumpkin",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1300,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4345f"
+    },
+    "State": "Punjab",
+    "District": "Amritsar",
+    "Market": "Rayya",
+    "Commodity": "Brinjal",
+    "Variety": "Brinjal",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 900,
+    "Max_x0020_Price": 900,
+    "Modal_x0020_Price": 900
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43460"
+    },
+    "State": "Punjab",
+    "District": "Amritsar",
+    "Market": "Rayya",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43461"
+    },
+    "State": "Punjab",
+    "District": "Amritsar",
+    "Market": "Rayya",
+    "Commodity": "Onion",
+    "Variety": "Red",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1900,
+    "Max_x0020_Price": 1900,
+    "Modal_x0020_Price": 1900
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43462"
+    },
+    "State": "Punjab",
+    "District": "Amritsar",
+    "Market": "Rayya",
+    "Commodity": "Tomato",
+    "Variety": "Hybrid",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43463"
+    },
+    "State": "Punjab",
+    "District": "Ferozpur",
+    "Market": "Zira",
+    "Commodity": "Squash(Chappal Kadoo)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 2700,
+    "Modal_x0020_Price": 2600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43464"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Banana",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2200,
+    "Max_x0020_Price": 2400,
+    "Modal_x0020_Price": 2300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43465"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Cabbage",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43466"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Cucumbar(Kheera)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1400,
+    "Max_x0020_Price": 1800,
+    "Modal_x0020_Price": 1600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43467"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Guava",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43468"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Kinnow",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43469"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Peas cod",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4346a"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Raddish",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 600,
+    "Max_x0020_Price": 800,
+    "Modal_x0020_Price": 700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4346b"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Garlic",
+    "Variety": "Average",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 8000,
+    "Modal_x0020_Price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4346c"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Water Melon",
+    "Variety": "Other",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 1800,
+    "Modal_x0020_Price": 1700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4346d"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "GarhShankar (Kotfatuhi)",
+    "Commodity": "Cauliflower",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 400,
+    "Max_x0020_Price": 600,
+    "Modal_x0020_Price": 500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4346e"
+    },
+    "State": "Punjab",
+    "District": "kapurthala",
+    "Market": "Sultanpur",
+    "Commodity": "Capsicum",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1900,
+    "Max_x0020_Price": 2000,
+    "Modal_x0020_Price": 2000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4346f"
+    },
+    "State": "Punjab",
+    "District": "kapurthala",
+    "Market": "Sultanpur",
+    "Commodity": "Raddish",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 150,
+    "Max_x0020_Price": 200,
+    "Modal_x0020_Price": 200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43470"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Kiratpur",
+    "Commodity": "Gur(Jaggery)",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3250,
+    "Max_x0020_Price": 3350,
+    "Modal_x0020_Price": 3300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43471"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bulandshahar",
+    "Market": "Gulavati",
+    "Commodity": "Lemon",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 8100,
+    "Max_x0020_Price": 8300,
+    "Modal_x0020_Price": 8200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43472"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Hathras",
+    "Market": "Shadabad",
+    "Commodity": "Onion",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3100,
+    "Max_x0020_Price": 3200,
+    "Modal_x0020_Price": 3150
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43473"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Khiri (Lakhimpur)",
+    "Market": "Maigalganj",
+    "Commodity": "Apple",
+    "Variety": "Kasmir/Shimla - II",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 9000,
+    "Max_x0020_Price": 9070,
+    "Modal_x0020_Price": 9040
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43474"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Khiri (Lakhimpur)",
+    "Market": "Maigalganj",
+    "Commodity": "Brinjal",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2030,
+    "Modal_x0020_Price": 2013
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43475"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Maharajganj",
+    "Market": "Anandnagar",
+    "Commodity": "Apple",
+    "Variety": "Delicious",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7200,
+    "Max_x0020_Price": 8000,
+    "Modal_x0020_Price": 7600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43476"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Maharajganj",
+    "Market": "Anandnagar",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43477"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Maharajganj",
+    "Market": "Anandnagar",
+    "Commodity": "Paddy(Dhan)(Common)",
+    "Variety": "Common",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2300,
+    "Max_x0020_Price": 2350,
+    "Modal_x0020_Price": 2330
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43478"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Maharajganj",
+    "Market": "Anandnagar",
+    "Commodity": "Wheat",
+    "Variety": "Dara",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2300,
+    "Max_x0020_Price": 2400,
+    "Modal_x0020_Price": 2350
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43479"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Doharighat",
+    "Commodity": "Onion",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3900,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3950
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4347a"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Doharighat",
+    "Commodity": "Rice",
+    "Variety": "1009 Kar",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3600,
+    "Max_x0020_Price": 3700,
+    "Modal_x0020_Price": 3660
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4347b"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Kopaganj",
+    "Commodity": "Cucumbar(Kheera)",
+    "Variety": "Cucumbar",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1100,
+    "Modal_x0020_Price": 1050
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4347c"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Kopaganj",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1400,
+    "Max_x0020_Price": 1600,
+    "Modal_x0020_Price": 1500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4347d"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Kopaganj",
+    "Commodity": "Potato",
+    "Variety": "Desi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 950,
+    "Modal_x0020_Price": 900
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4347e"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Bitter gourd",
+    "Variety": "Bitter Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4347f"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Cabbage",
+    "Variety": "Cabbage",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43480"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Carrot",
+    "Variety": "Carrot",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43481"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Cucumbar(Kheera)",
+    "Variety": "Cucumbar",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 600,
+    "Max_x0020_Price": 800,
+    "Modal_x0020_Price": 700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43482"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Field Pea",
+    "Variety": "Field Pea",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 500,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43483"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Orange",
+    "Variety": "Darjeeling",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43484"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Potato",
+    "Variety": "Desi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 800,
+    "Modal_x0020_Price": 750
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43485"
+    },
+    "State": "Uttrakhand",
+    "District": "Haridwar",
+    "Market": "Roorkee",
+    "Commodity": "Bitter gourd",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 400,
+    "Max_x0020_Price": 600,
+    "Modal_x0020_Price": 500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43486"
+    },
+    "State": "Uttrakhand",
+    "District": "Haridwar",
+    "Market": "Roorkee",
+    "Commodity": "Brinjal",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 350,
+    "Max_x0020_Price": 600,
+    "Modal_x0020_Price": 500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43487"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Dinhata",
+    "Commodity": "Brinjal",
+    "Variety": "Brinjal",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1100,
+    "Modal_x0020_Price": 1050
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43488"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Dinhata",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3500,
+    "Max_x0020_Price": 3800,
+    "Modal_x0020_Price": 3600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43489"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Mekhliganj",
+    "Commodity": "Bitter gourd",
+    "Variety": "Bitter Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3200,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4348a"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Mekhliganj",
+    "Commodity": "Cabbage",
+    "Variety": "Cabbage",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 600,
+    "Max_x0020_Price": 650,
+    "Modal_x0020_Price": 625
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4348b"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Toofanganj",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 900,
+    "Max_x0020_Price": 950,
+    "Modal_x0020_Price": 925
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4348c"
+    },
+    "State": "West Bengal",
+    "District": "Hooghly",
+    "Market": "Sheoraphuly",
+    "Commodity": "Bitter gourd",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3200,
+    "Max_x0020_Price": 3400,
+    "Modal_x0020_Price": 3300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4348d"
+    },
+    "State": "West Bengal",
+    "District": "Hooghly",
+    "Market": "Sheoraphuly",
+    "Commodity": "Sweet Pumpkin",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4348e"
+    },
+    "State": "Andhra Pradesh",
+    "District": "Anantapur",
+    "Market": "Rayadurg",
+    "Commodity": "Tamarind Fruit",
+    "Variety": "Non A/c Fine",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 14700,
+    "Max_x0020_Price": 22500,
+    "Modal_x0020_Price": 19000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4348f"
+    },
+    "State": "Gujarat",
+    "District": "Amreli",
+    "Market": "Damnagar",
+    "Commodity": "Bhindi(Ladies Finger)",
+    "Variety": "Bhindi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2800,
+    "Max_x0020_Price": 3550,
+    "Modal_x0020_Price": 3200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43490"
+    },
+    "State": "Gujarat",
+    "District": "Amreli",
+    "Market": "Damnagar",
+    "Commodity": "Ginger(Green)",
+    "Variety": "Green Ginger",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3250,
+    "Max_x0020_Price": 4050,
+    "Modal_x0020_Price": 3800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43491"
+    },
+    "State": "Gujarat",
+    "District": "Amreli",
+    "Market": "Damnagar",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2850,
+    "Max_x0020_Price": 3550,
+    "Modal_x0020_Price": 3200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43492"
+    },
+    "State": "Gujarat",
+    "District": "Amreli",
+    "Market": "Damnagar",
+    "Commodity": "Lemon",
+    "Variety": "Lemon",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3500,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 3850
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43493"
+    },
+    "State": "Gujarat",
+    "District": "Amreli",
+    "Market": "Damnagar",
+    "Commodity": "Tomato",
+    "Variety": "Local",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 850,
+    "Max_x0020_Price": 1550,
+    "Modal_x0020_Price": 1200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43494"
+    },
+    "State": "Gujarat",
+    "District": "Junagarh",
+    "Market": "Mangrol",
+    "Commodity": "Groundnut",
+    "Variety": "G20",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5025,
+    "Max_x0020_Price": 5050,
+    "Modal_x0020_Price": 5040
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43495"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Farukh Nagar",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43496"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Gurgaon",
+    "Commodity": "Bottle gourd",
+    "Variety": "Bottle Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43497"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Gurgaon",
+    "Commodity": "Carrot",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43498"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Gurgaon",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 900
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a43499"
+    },
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Market": "Gurgaon",
+    "Commodity": "Tomato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4349a"
+    },
+    "State": "Haryana",
+    "District": "Jind",
+    "Market": "Safidon",
+    "Commodity": "Apple",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 8000,
+    "Max_x0020_Price": 8000,
+    "Modal_x0020_Price": 8000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4349b"
+    },
+    "State": "Haryana",
+    "District": "Jind",
+    "Market": "Safidon",
+    "Commodity": "Lemon",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 5000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4349c"
+    },
+    "State": "Haryana",
+    "District": "Rewari",
+    "Market": "Kosli",
+    "Commodity": "Cabbage",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4349d"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Coriander(Leaves)",
+    "Variety": "Coriander",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 2200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4349e"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Indian Colza(Sarson)",
+    "Variety": "Indian Colza(Sarson)",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1200,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a4349f"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Lemon",
+    "Variety": "Lemon",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 7000,
+    "Modal_x0020_Price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434a0"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Peas Wet",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 2800,
+    "Modal_x0020_Price": 2600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434a1"
+    },
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Market": "Kangra(Baijnath)",
+    "Commodity": "Turnip",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1200,
+    "Max_x0020_Price": 1400,
+    "Modal_x0020_Price": 1400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434a2"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Cherthala",
+    "Commodity": "Banana - Green",
+    "Variety": "Banana - Green",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3400,
+    "Max_x0020_Price": 3600,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434a3"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Amphophalus",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6000,
+    "Max_x0020_Price": 6400,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434a4"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Banana",
+    "Variety": "Nendra Bale",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 7500,
+    "Modal_x0020_Price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434a5"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Bhindi(Ladies Finger)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434a6"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Brinjal",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434a7"
+    },
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Market": "Harippad",
+    "Commodity": "Cabbage",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434a8"
+    },
+    "State": "Kerala",
+    "District": "Idukki",
+    "Market": "Udumbannoor  VFPCK",
+    "Commodity": "Banana",
+    "Variety": "Nendra Bale",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4500,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4700
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434a9"
+    },
+    "State": "Kerala",
+    "District": "Kasargod",
+    "Market": "Kasargod",
+    "Commodity": "Copra",
+    "Variety": "other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 13000,
+    "Max_x0020_Price": 14000,
+    "Modal_x0020_Price": 13500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434aa"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Banana",
+    "Variety": "Palayamthodan",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3800,
+    "Max_x0020_Price": 4200,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434ab"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Banana",
+    "Variety": "Red Banana",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 8800,
+    "Max_x0020_Price": 9200,
+    "Modal_x0020_Price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434ac"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Cabbage",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3800,
+    "Max_x0020_Price": 4200,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434ad"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Carrot",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6800,
+    "Max_x0020_Price": 7200,
+    "Modal_x0020_Price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434ae"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Onion",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4300,
+    "Max_x0020_Price": 4700,
+    "Modal_x0020_Price": 4500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434af"
+    },
+    "State": "Kerala",
+    "District": "Kollam",
+    "Market": "Chathanoor",
+    "Commodity": "Snakeguard",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4800,
+    "Max_x0020_Price": 5200,
+    "Modal_x0020_Price": 5000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434b0"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Banana",
+    "Variety": "Poovan",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6500,
+    "Max_x0020_Price": 8000,
+    "Modal_x0020_Price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434b1"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Cabbage",
+    "Variety": "Cabbage",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4500,
+    "Max_x0020_Price": 5500,
+    "Modal_x0020_Price": 5000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434b2"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Cauliflower",
+    "Variety": "Cauliflower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434b3"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Ginger(Green)",
+    "Variety": "Green Ginger",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6500,
+    "Max_x0020_Price": 7500,
+    "Modal_x0020_Price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434b4"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Kuruppanthura",
+    "Commodity": "Onion",
+    "Variety": "Onion",
+    "Grade": "Non-FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 8000,
+    "Max_x0020_Price": 9000,
+    "Modal_x0020_Price": 8500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434b5"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Amaranthus",
+    "Variety": "Amaranthus",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434b6"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Ashgourd",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434b7"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Banana - Green",
+    "Variety": "Banana - Green",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6500,
+    "Max_x0020_Price": 7500,
+    "Modal_x0020_Price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434b8"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Bitter gourd",
+    "Variety": "Bitter Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5500,
+    "Max_x0020_Price": 6500,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434b9"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Brinjal",
+    "Variety": "Brinjal",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3500,
+    "Max_x0020_Price": 4599,
+    "Modal_x0020_Price": 4000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434ba"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Cabbage",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434bb"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Cauliflower",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 5500,
+    "Modal_x0020_Price": 5000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434bc"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Cowpea(Veg)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5500,
+    "Max_x0020_Price": 6500,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434bd"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Ginger(Green)",
+    "Variety": "Green Ginger",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 8000,
+    "Max_x0020_Price": 10000,
+    "Modal_x0020_Price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434be"
+    },
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Market": "Pampady",
+    "Commodity": "Indian Beans (Seam)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4800,
+    "Max_x0020_Price": 6000,
+    "Modal_x0020_Price": 5500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434bf"
+    },
+    "State": "Kerala",
+    "District": "Pathanamthitta",
+    "Market": "Kalanjoor  VFPCK",
+    "Commodity": "Banana",
+    "Variety": "Palayamthodan",
+    "Grade": "Large",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1200,
+    "Max_x0020_Price": 1900,
+    "Modal_x0020_Price": 1800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434c0"
+    },
+    "State": "Kerala",
+    "District": "Pathanamthitta",
+    "Market": "Kalanjoor  VFPCK",
+    "Commodity": "Colacasia",
+    "Variety": "Colacasia",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 6000,
+    "Max_x0020_Price": 6800,
+    "Modal_x0020_Price": 6200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434c1"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Beetroot",
+    "Variety": "Beetroot",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3200,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434c2"
+    },
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Market": "Parassala",
+    "Commodity": "Bhindi(Ladies Finger)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3200,
+    "Modal_x0020_Price": 3000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434c3"
+    },
+    "State": "Odisha",
+    "District": "Dhenkanal",
+    "Market": "Hindol",
+    "Commodity": "Pointed gourd (Parval)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5800,
+    "Max_x0020_Price": 6200,
+    "Modal_x0020_Price": 6000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434c4"
+    },
+    "State": "Punjab",
+    "District": "Amritsar",
+    "Market": "Rayya",
+    "Commodity": "Onion",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3500,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434c5"
+    },
+    "State": "Punjab",
+    "District": "Amritsar",
+    "Market": "Rayya",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434c6"
+    },
+    "State": "Punjab",
+    "District": "Amritsar",
+    "Market": "Rayya",
+    "Commodity": "Raddish",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 600,
+    "Max_x0020_Price": 609,
+    "Modal_x0020_Price": 600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434c7"
+    },
+    "State": "Punjab",
+    "District": "Amritsar",
+    "Market": "Rayya",
+    "Commodity": "Tomato",
+    "Variety": "Hybrid",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1800,
+    "Max_x0020_Price": 1800,
+    "Modal_x0020_Price": 1800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434c8"
+    },
+    "State": "Punjab",
+    "District": "Bhatinda",
+    "Market": "Bhucho",
+    "Commodity": "Green Chilli",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1200,
+    "Max_x0020_Price": 1400,
+    "Modal_x0020_Price": 1300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434c9"
+    },
+    "State": "Punjab",
+    "District": "Bhatinda",
+    "Market": "Bhucho",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1100,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1150
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434ca"
+    },
+    "State": "Punjab",
+    "District": "Ferozpur",
+    "Market": "Zira",
+    "Commodity": "Brinjal",
+    "Variety": "Brinjal",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1200,
+    "Max_x0020_Price": 1600,
+    "Modal_x0020_Price": 1400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434cb"
+    },
+    "State": "Punjab",
+    "District": "Ferozpur",
+    "Market": "Zira",
+    "Commodity": "Cauliflower",
+    "Variety": "Cauliflower",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 200,
+    "Max_x0020_Price": 300,
+    "Modal_x0020_Price": 250
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434cc"
+    },
+    "State": "Punjab",
+    "District": "Ferozpur",
+    "Market": "Zira",
+    "Commodity": "Ginger(Green)",
+    "Variety": "Green Ginger",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4500,
+    "Max_x0020_Price": 4700,
+    "Modal_x0020_Price": 4600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434cd"
+    },
+    "State": "Punjab",
+    "District": "Ferozpur",
+    "Market": "Zira",
+    "Commodity": "Peas cod",
+    "Variety": "Peas cod",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1600,
+    "Max_x0020_Price": 2100,
+    "Modal_x0020_Price": 1800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434ce"
+    },
+    "State": "Punjab",
+    "District": "Ferozpur",
+    "Market": "Zira",
+    "Commodity": "Tomato",
+    "Variety": "Local",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1200,
+    "Max_x0020_Price": 1600,
+    "Modal_x0020_Price": 1400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434cf"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Orange",
+    "Variety": "Orange",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 4500,
+    "Modal_x0020_Price": 4200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434d0"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Papaya",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3500,
+    "Modal_x0020_Price": 3200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434d1"
+    },
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Market": "Gurdaspur",
+    "Commodity": "Pomegranate",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 7000,
+    "Max_x0020_Price": 7500,
+    "Modal_x0020_Price": 7200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434d2"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Brinjal",
+    "Variety": "Brinjal",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 1300,
+    "Modal_x0020_Price": 1200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434d3"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Carrot",
+    "Variety": "Carrot",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 850
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434d4"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Cucumbar(Kheera)",
+    "Variety": "Cucumbar",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1000,
+    "Max_x0020_Price": 2500,
+    "Modal_x0020_Price": 1500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434d5"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Grapes",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 6000,
+    "Modal_x0020_Price": 5000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434d6"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Kinnow",
+    "Variety": "Other",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3800,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434d7"
+    },
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Market": "Garh Shankar",
+    "Commodity": "Lemon",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434d8"
+    },
+    "State": "Telangana",
+    "District": "Nalgonda",
+    "Market": "Kodad",
+    "Commodity": "Paddy(Dhan)(Common)",
+    "Variety": "B P T",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2300,
+    "Max_x0020_Price": 2300,
+    "Modal_x0020_Price": 2300
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434d9"
+    },
+    "State": "Tripura",
+    "District": "North Tripura",
+    "Market": "Dasda",
+    "Commodity": "Onion",
+    "Variety": "Onion",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3500,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3750
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434da"
+    },
+    "State": "Tripura",
+    "District": "North Tripura",
+    "Market": "Dasda",
+    "Commodity": "Rice",
+    "Variety": "Masuri",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3400,
+    "Max_x0020_Price": 3600,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434db"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Kiratpur",
+    "Commodity": "Bottle gourd",
+    "Variety": "Bottle Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1400,
+    "Max_x0020_Price": 1500,
+    "Modal_x0020_Price": 1450
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434dc"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Market": "Najibabad",
+    "Commodity": "Tomato",
+    "Variety": "Hybrid",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 1200,
+    "Modal_x0020_Price": 1000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434dd"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bulandshahar",
+    "Market": "Gulavati",
+    "Commodity": "Garlic",
+    "Variety": "Desi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 15000,
+    "Max_x0020_Price": 16000,
+    "Modal_x0020_Price": 15500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434de"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bulandshahar",
+    "Market": "Gulavati",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 2700,
+    "Modal_x0020_Price": 2600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434df"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bulandshahar",
+    "Market": "Gulavati",
+    "Commodity": "Onion",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2200,
+    "Modal_x0020_Price": 2100
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434e0"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Bulandshahar",
+    "Market": "Gulavati",
+    "Commodity": "Potato",
+    "Variety": "Desi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1100,
+    "Max_x0020_Price": 1300,
+    "Modal_x0020_Price": 1200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434e1"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Hathras",
+    "Market": "Shadabad",
+    "Commodity": "Potato",
+    "Variety": "Desi",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 800,
+    "Max_x0020_Price": 900,
+    "Modal_x0020_Price": 850
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434e2"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Khiri (Lakhimpur)",
+    "Market": "Maigalganj",
+    "Commodity": "Bottle gourd",
+    "Variety": "Bottle Gourd",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1800,
+    "Max_x0020_Price": 1869,
+    "Modal_x0020_Price": 1830
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434e3"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Khiri (Lakhimpur)",
+    "Market": "Maigalganj",
+    "Commodity": "Pumpkin",
+    "Variety": "Pumpkin",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1600,
+    "Max_x0020_Price": 1656,
+    "Modal_x0020_Price": 1630
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434e4"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Maharajganj",
+    "Market": "Anandnagar",
+    "Commodity": "Onion",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2500,
+    "Max_x0020_Price": 3000,
+    "Modal_x0020_Price": 2800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434e5"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Mau(Maunathbhanjan)",
+    "Market": "Doharighat",
+    "Commodity": "Cauliflower",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1200,
+    "Max_x0020_Price": 1300,
+    "Modal_x0020_Price": 1240
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434e6"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Apple",
+    "Variety": "Apple",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4500,
+    "Max_x0020_Price": 5500,
+    "Modal_x0020_Price": 5000
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434e7"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Grapes",
+    "Variety": "Green",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 4000,
+    "Max_x0020_Price": 5000,
+    "Modal_x0020_Price": 4500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434e8"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Guava",
+    "Variety": "Guava",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2000,
+    "Max_x0020_Price": 2400,
+    "Modal_x0020_Price": 2200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434e9"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Gur(Jaggery)",
+    "Variety": "Yellow",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 4000,
+    "Modal_x0020_Price": 3500
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434ea"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Market": "Khatauli",
+    "Commodity": "Onion",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 900,
+    "Modal_x0020_Price": 800
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434eb"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Apple",
+    "Variety": "Delicious",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3300,
+    "Max_x0020_Price": 3400,
+    "Modal_x0020_Price": 3350
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434ec"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Green Chilli",
+    "Variety": "Green Chilly",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3700,
+    "Max_x0020_Price": 3800,
+    "Modal_x0020_Price": 3750
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434ed"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Guava",
+    "Variety": "Guava",
+    "Grade": "Medium",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 1600,
+    "Modal_x0020_Price": 1550
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434ee"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Lemon",
+    "Variety": "Lemon",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 2700,
+    "Max_x0020_Price": 2800,
+    "Modal_x0020_Price": 2750
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434ef"
+    },
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Market": "Kairana",
+    "Commodity": "Onion",
+    "Variety": "Red",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1500,
+    "Max_x0020_Price": 1600,
+    "Modal_x0020_Price": 1550
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434f0"
+    },
+    "State": "Uttrakhand",
+    "District": "Haridwar",
+    "Market": "Roorkee",
+    "Commodity": "Bottle gourd",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 1100,
+    "Modal_x0020_Price": 900
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434f1"
+    },
+    "State": "Uttrakhand",
+    "District": "Haridwar",
+    "Market": "Roorkee",
+    "Commodity": "Cauliflower",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 300,
+    "Max_x0020_Price": 500,
+    "Modal_x0020_Price": 400
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434f2"
+    },
+    "State": "Uttrakhand",
+    "District": "Haridwar",
+    "Market": "Roorkee",
+    "Commodity": "Potato",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 700,
+    "Max_x0020_Price": 1000,
+    "Modal_x0020_Price": 900
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434f3"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Dinhata",
+    "Commodity": "Cabbage",
+    "Variety": "Cabbage",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 600,
+    "Max_x0020_Price": 700,
+    "Modal_x0020_Price": 650
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434f4"
+    },
+    "State": "West Bengal",
+    "District": "Coochbehar",
+    "Market": "Dinhata",
+    "Commodity": "Onion",
+    "Variety": "Onion",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 3000,
+    "Max_x0020_Price": 3400,
+    "Modal_x0020_Price": 3200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434f5"
+    },
+    "State": "West Bengal",
+    "District": "Hooghly",
+    "Market": "Sheoraphuly",
+    "Commodity": "Cucumbar(Kheera)",
+    "Variety": "Cucumbar",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 1400,
+    "Max_x0020_Price": 1800,
+    "Modal_x0020_Price": 1600
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434f6"
+    },
+    "State": "West Bengal",
+    "District": "Hooghly",
+    "Market": "Sheoraphuly",
+    "Commodity": "Ginger(Dry)",
+    "Variety": "Other",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 5000,
+    "Max_x0020_Price": 5400,
+    "Modal_x0020_Price": 5200
+  },
+  {
+    "_id": {
+      "$oid": "67b8079ef05bb13fc5a434f7"
+    },
+    "State": "West Bengal",
+    "District": "Hooghly",
+    "Market": "Sheoraphuly",
+    "Commodity": "Potato",
+    "Variety": "F.A.Q.",
+    "Grade": "FAQ",
+    "Arrival_Date": "20/02/2025",
+    "Min_x0020_Price": 740,
+    "Max_x0020_Price": 840,
+    "Modal_x0020_Price": 780
+  }
+]

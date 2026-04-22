@@ -1,0 +1,129 @@
+{
+  "chat": {
+    "placeholder": "अपना सवाल पूछें...",
+    "welcome_title": "फार्म एआई सहायक में आपका स्वागत है",
+    "welcome_subtitle": "नमस्ते👋 मैं आपकी कृषि से जुड़ी समस्याओं में मदद करने के लिए यहां हूँ।",
+    "thinking_1": "सोच रहा हूँ...",
+    "thinking_2": "जानकारी एकत्रित कर रहा हूँ...",
+    "thinking_3": "उपयुक्त जानकारी ला रहा हूँ...",
+    "thinking_4": "उत्तर लिख रहा हूँ...",
+    "copy_success": "पाठ क्लिपबोर्ड पर कॉपी हो गया",
+    "error_fetching": "उत्तर लाने में त्रुटि हुई",
+    "search_toggle": "इंटरनेट खोज",
+    "search_tooltip": "खोज चालू/बंद करें",
+    "clear_chat": "चैट साफ़ करें",
+    "clear_chat_tooltip": "चैट हटाएँ",
+    "speak_message": "संदेश पढ़ें",
+    "stop_speaking": "पढ़ना बंद करें"
+  },
+
+  "sidebar": {
+    "title": "फार्म सहायक",
+    "AI Assitant": "एआई सहायक",
+    "Weather Updates": "मौसम की जानकारी",
+    "IoT Sensors": "आईओटी सेंसर",
+    "Datasets": "डेटा सेट्स"
+  },
+  "sensors": {
+    "title": "कनेक्टेड सेंसर",
+    "Soil Moisture": "मृदा नमी",
+    "Temperature": "तापमान",
+    "Humidity": "आर्द्रता"
+  },
+  "dashSidebar": {
+    "title": "डैशबोर्ड",
+    "weatherTitle": "मौसम",
+    "marketTitle": "बाजार"
+  },
+  "iotdata": {
+    "title": "IoT डेटा",
+
+    "sensorFieldsTitle": "मिट्टी नमी सेंसर",
+    "sensor1FieldA": "सेंसर 1 - खेत A",
+    "sensor1FieldB": "सेंसर 1 - खेत B",
+    "activeStatus": "सक्रिय",
+    "systemStatusTitle": "सिस्टम की स्थिति",
+    "allSystemsOperational": "सभी सिस्टम चालू हैं",
+    "lastChecked": "अंतिम जांच: 5 मिनट पहले",
+    "batteryLevel": "बैटरी स्तर",
+    "signalStrength": "सिग्नल की ताकत",
+    "strong": "मजबूत",
+
+    "sensorDataHistoryTitle": "सेंसर डेटा इतिहास",
+    "sensorDataHistoryDescription": "पिछले 3 महीनों के तापमान और मिट्टी की नमी का डेटा दिखा रहा है",
+    "last3Months": "पिछले 3 महीने",
+    "last30Days": "पिछले 30 दिन",
+    "last7Days": "पिछले 7 दिन",
+    "temperatureLabel": "तापमान (°C)",
+    "soilMoistureLabel": "मिट्टी की नमी (%)"
+  },
+  "weatherData": {
+    "title": "मौसम की जानकारी",
+    "Clear": "साफ़",
+    "Clouds": "बादल",
+    "Rain": "बारिश",
+    "Snow": "बर्फ़",
+    "weatherForecastTitle": "मौसम पूर्वानुमान",
+    "currentWeatherTitle": "वर्तमान मौसम",
+    "windConditionsTitle": "हवा की स्थिति",
+    "WindSpeed": "हवा की गति",
+    "Speed": "किमी/घंटा",
+    "WindDirection": "हवा की दिशा",
+
+    "weatherAlertsTitle": "मौसम अलर्ट",
+    "highUVIndexAlert": "अधिक यूवी स्तर की चेतावनी",
+    "highUVIndexDescription": "10 बजे से 4 बजे के बीच अधिक यूवी स्तर की संभावना",
+    "wateringAdvisory": "सिंचाई सलाह",
+    "wateringAdvisoryDescription": "शाम के समय फसल की सिंचाई के लिए उपयुक्त स्थिति"
+  },
+  "market": {
+    "per_100kg": "प्रति 100 किलोग्राम",
+    "Onion": "प्याज",
+    "Tomato": "टमाटर",
+    "Banana": "केला",
+    "Brinjal": "बैंगन",
+    "Cabbage": "पत्ता गोभी",
+    "Potato": "आलू",
+    "Amreli": "अंरेली",
+    "Jind": "जींद",
+    "Kollam": "कोल्लम",
+    "Gurgaon": "गुड़गांव",
+    "Ferozpur": "फिरोजपुर",
+    "marketPrice": "बाजार मूल्य"
+  },
+
+  "location": {
+    "Chandigarh": "चंडीगढ़",
+    "Delhi": "दिल्ली",
+    "Punjab": "पंजाब"
+  },
+  "dataset": {
+    "Food Nutrients Database": "भोजन पोषक तत्व डेटाबेस",
+    "Spices Database": "मसाले डेटाबेस",
+    "India, Australia, UK, US": "भारत, ऑस्ट्रेलिया, यूके, यूएस",
+    "India": "भारत",
+    "Downloads": "डाउनलोड",
+    "Database Size": "डेटाबेस आकार",
+    "Dataset Countries": "डेटासेट देश",
+    "Size": "आकार",
+    "Download CSV": "CSV डाउनलोड",
+    "API Key": "API कुंजी",
+    "Food Nutrients Database Description": "डेटाबेस विभिन्न देशों के खाद्य पोषण प्रोफाइल का एक व्यापक डेटासेट प्रदान करता है। यह खाद्य पदार्थों को प्रकार, वैज्ञानिक नाम और पोषण संरचना (पॉलीफेनोल, कैरोटीनोइड, विटामिन) के आधार पर वर्गीकृत करता है। शोधकर्ताओं, पोषण विशेषज्ञों और खाद्य उद्योगों के लिए उपयोगी।",
+    "Spices Database Description": "मसाले डेटाबेस",
+    "Database Details": "डेटाबेस विवरण",
+    "API link": "API लिंक",
+    "Link": "लिंक",
+    "Copy": "कॉपी",
+    "Close": "बंद करें"
+  },
+
+  "Subscribe to FarmAI Plus": "FarmAI Plus की सदस्यता लें",
+  "Download the dataset": "डेटासेट डाउनलोड करें",
+  "Access to API": "API तक पहुंच",
+  "Download in CSV": "CSV में डाउनलोड करें",
+  "Subscribe for ₹10/Month": "₹10/महीने के लिए सदस्यता लें",
+  "Subscribed successfully": "सदस्यता सफलतापूर्वक ली गई",
+  "Upload Image": "छवि अपलोड करें",
+  "Picture": "तस्वीर",
+  "Sample Data": "नमूना डेटा"
+}
