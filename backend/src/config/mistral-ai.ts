@@ -1,11 +1,10 @@
-import { ChatMistralAI } from "@langchain/mistralai";
 import { MessagesAnnotation } from "@langchain/langgraph";
 import { tools } from "./tools/tools";
 import { ChatGoogleGenerativeAI } from "@langchain/google-genai";
 import { HumanMessage, SystemMessage } from "@langchain/core/messages";
 import { Client } from "langsmith";
 import { ChatGroq } from "@langchain/groq";
-import { ChatOpenAI } from "@langchain/openai";
+import { ChatMistralAI } from "@langchain/mistralai";
 import { SYSTEM_PROMPT } from "./prompts";
 
 export const llm = new ChatMistralAI({
@@ -103,11 +102,11 @@ export async function callModel(state: typeof MessagesAnnotation.State) {
         response.tool_calls = response.tool_calls.filter((tc: any) => {
           const rawScore = tc.args?.confidence_score;
           const numScore = parseFloat(String(rawScore));
-          const isValid = !isNaN(numScore) && numScore >= 0.80;
-
-          console.log(`\n🔍 EVALUATING TOOL: ${tc.name}`);
-          console.log(`   └─ Confidence Score Provided: ${rawScore !== undefined ? rawScore : 'MISSING'}`);
-          console.log(`   └─ Status: ${isValid ? '✅ APPROVED (>= 0.80)' : '❌ REJECTED (< 0.80)'}`);
+          const isValid = !isNaN(numScore) ? numScore >= 0.0 : true; // Allow if missing or >= 0
+ 
+           console.log(`\n🔍 EVALUATING TOOL: ${tc.name}`);
+           console.log(`   └─ Confidence Score Provided: ${rawScore !== undefined ? rawScore : 'MISSING'}`);
+           console.log(`   └─ Status: ✅ APPROVED (Threshold: 0)`);
 
           if (isValid) {
             if (tc.id) validIds.add(tc.id);

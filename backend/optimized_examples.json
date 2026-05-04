@@ -1,0 +1,26 @@
+[
+    {
+        "query": "I am a farmer, how to control pests in chilli?",
+        "tool_name": "get_pesticide_info",
+        "args": "{\n  \"crop\": \"chilli\",\n  \"pest\": \"general pests\"\n}",
+        "confidence": "0.95"
+    },
+    {
+        "query": "What is the market price of onion in Maharashtra?",
+        "tool_name": "get_mandi_data",
+        "args": "{\"commodity\": \"onion\", \"state\": \"Maharashtra\"}",
+        "confidence": "0.95"
+    },
+    {
+        "query": "Are there any schemes for solar pumps?",
+        "tool_name": "get_government_schemes",
+        "args": "{\"query\": \"solar pump subsidies or schemes\"}",
+        "confidence": "0.95"
+    },
+    {
+        "query": "Tell me the price of wheat in Punjab mandi.",
+        "tool_name": "get_mandi_data",
+        "args": "{\"commodity\": \"wheat\", \"state\": \"Punjab\"}",
+        "confidence": "0.95"
+    }
+]

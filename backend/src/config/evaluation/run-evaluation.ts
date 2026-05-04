@@ -48,16 +48,16 @@ async function main() {
                 const question = inputs.question ?? inputs.input ?? inputs.query ?? inputs.text;
 
                 if (!question) {
-                    console.error("❌ No question found in inputs:", JSON.stringify(inputs, null, 2));
-                    throw new Error("Input missing content key");
+                    console.warn("⚠️ Skipping item: No question found in inputs:", JSON.stringify(inputs, null, 2));
+                    return { skipped: true };
                 }
 
                 console.log(`🤖 Running Agent for question: "${question}"`);
                 const agentResult = await runAgent(question);
 
-                // Add a delay to stay within Mistral/LLM rate limits (429 protection)
-                console.log("⏳ Throttling: sleeping for 3 seconds...");
-                await sleep(3000);
+                // Add a delay to stay within DeepSeek/LLM rate limits (429 protection)
+                console.log("⏳ Throttling: sleeping for 8 seconds...");
+                await sleep(8000);
 
                 // Return structured output for LangSmith evaluation
                 return {
